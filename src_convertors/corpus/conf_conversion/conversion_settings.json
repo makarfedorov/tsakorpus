@@ -16,7 +16,7 @@
 	  "Примечание"
   ],
   "meta_files_ext": false,
-  "meta_files_dir": true,
+  "meta_files_dir": false,
   "meta_files_case_sensitive": true,
   "languages": ["russian"],
   "json_indent": -1,
