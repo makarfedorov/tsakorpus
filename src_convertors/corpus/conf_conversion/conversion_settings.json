@@ -4,7 +4,7 @@
   "meta_filename": "meta.csv",
   "error_log": "error.log",
   "meta_fields":
-  ["filename",
+  [
     "author",
 	"title",
 	  "place", 
